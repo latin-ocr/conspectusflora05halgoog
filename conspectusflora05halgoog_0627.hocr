@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./conspectusflora05halgoog_0627.png"; bbox 0 0 3196 5172; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 1085 207 1593 330">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 1085 207 1593 330">
+     <span class='ocr_line' id='line_1_1' title="bbox 1085 207 1593 330; baseline 0.004 -46"><span class='ocrx_word' id='word_1_1' title='bbox 1085 207 1112 284; x_wconf 77' lang='lat' dir='ltr'>a</span> <span class='ocrx_word' id='word_1_2' title='bbox 1143 207 1253 330; x_wconf 66' lang='lat'><strong>²94⁴</strong></span> <span class='ocrx_word' id='word_1_3' title='bbox 1287 207 1378 328; x_wconf 23' lang='lat'>103·</span> <span class='ocrx_word' id='word_1_4' title='bbox 1401 207 1480 286; x_wconf 69' lang='grc' dir='ltr'><strong>το]</strong></span> <span class='ocrx_word' id='word_1_5' title='bbox 1511 207 1593 286; x_wconf 82' lang='lat'><strong>629</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 0 0 1602 5172">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 0 0 1602 5172">
+     <span class='ocr_line' id='line_1_2' title="bbox 0 0 1602 5172; baseline 0 -4871"><span class='ocrx_word' id='word_1_6' title='bbox 0 0 1602 5172; x_wconf 95' lang='lat' dir='ltr'><strong>   </strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
